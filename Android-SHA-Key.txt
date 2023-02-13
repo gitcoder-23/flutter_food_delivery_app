@@ -1,0 +1,73 @@
+> Configure project :app
+Warning: Please apply google-services plugin at the bottom of the build file.
+
+> Task :app:signingReport
+Variant: debug
+Config: debug
+Store: /Users/cnmini/.android/debug.keystore
+Alias: AndroidDebugKey
+MD5: 1E:38:58:93:6F:C4:91:A3:58:F1:93:5A:8F:75:8D:0C
+SHA1: 97:95:0F:76:AC:0D:87:E3:AA:C7:D4:30:F2:D7:C6:E8:A4:E7:A6:9F
+SHA-256: 86:73:A7:16:D4:DD:D2:19:41:DA:DD:01:80:AE:13:4D:4D:34:73:9E:BD:43:CB:B8:F0:07:EA:01:BE:CB:F7:D0
+Valid until: Saturday, 31 August, 2052
+----------
+Variant: release
+Config: debug
+Store: /Users/cnmini/.android/debug.keystore
+Alias: AndroidDebugKey
+MD5: 1E:38:58:93:6F:C4:91:A3:58:F1:93:5A:8F:75:8D:0C
+SHA1: 97:95:0F:76:AC:0D:87:E3:AA:C7:D4:30:F2:D7:C6:E8:A4:E7:A6:9F
+SHA-256: 86:73:A7:16:D4:DD:D2:19:41:DA:DD:01:80:AE:13:4D:4D:34:73:9E:BD:43:CB:B8:F0:07:EA:01:BE:CB:F7:D0
+Valid until: Saturday, 31 August, 2052
+----------
+Variant: profile
+Config: debug
+Store: /Users/cnmini/.android/debug.keystore
+Alias: AndroidDebugKey
+MD5: 1E:38:58:93:6F:C4:91:A3:58:F1:93:5A:8F:75:8D:0C
+SHA1: 97:95:0F:76:AC:0D:87:E3:AA:C7:D4:30:F2:D7:C6:E8:A4:E7:A6:9F
+SHA-256: 86:73:A7:16:D4:DD:D2:19:41:DA:DD:01:80:AE:13:4D:4D:34:73:9E:BD:43:CB:B8:F0:07:EA:01:BE:CB:F7:D0
+Valid until: Saturday, 31 August, 2052
+----------
+Variant: debugAndroidTest
+Config: debug
+Store: /Users/cnmini/.android/debug.keystore
+Alias: AndroidDebugKey
+MD5: 1E:38:58:93:6F:C4:91:A3:58:F1:93:5A:8F:75:8D:0C
+SHA1: 97:95:0F:76:AC:0D:87:E3:AA:C7:D4:30:F2:D7:C6:E8:A4:E7:A6:9F
+SHA-256: 86:73:A7:16:D4:DD:D2:19:41:DA:DD:01:80:AE:13:4D:4D:34:73:9E:BD:43:CB:B8:F0:07:EA:01:BE:CB:F7:D0
+Valid until: Saturday, 31 August, 2052
+----------
+
+> Task :firebase_auth:signingReport
+Variant: debugAndroidTest
+Config: debug
+Store: /Users/cnmini/.android/debug.keystore
+Alias: AndroidDebugKey
+MD5: 1E:38:58:93:6F:C4:91:A3:58:F1:93:5A:8F:75:8D:0C
+SHA1: 97:95:0F:76:AC:0D:87:E3:AA:C7:D4:30:F2:D7:C6:E8:A4:E7:A6:9F
+SHA-256: 86:73:A7:16:D4:DD:D2:19:41:DA:DD:01:80:AE:13:4D:4D:34:73:9E:BD:43:CB:B8:F0:07:EA:01:BE:CB:F7:D0
+Valid until: Saturday, 31 August, 2052
+----------
+
+> Task :firebase_core:signingReport
+Variant: debugAndroidTest
+Config: debug
+Store: /Users/cnmini/.android/debug.keystore
+Alias: AndroidDebugKey
+MD5: 1E:38:58:93:6F:C4:91:A3:58:F1:93:5A:8F:75:8D:0C
+SHA1: 97:95:0F:76:AC:0D:87:E3:AA:C7:D4:30:F2:D7:C6:E8:A4:E7:A6:9F
+SHA-256: 86:73:A7:16:D4:DD:D2:19:41:DA:DD:01:80:AE:13:4D:4D:34:73:9E:BD:43:CB:B8:F0:07:EA:01:BE:CB:F7:D0
+Valid until: Saturday, 31 August, 2052
+----------
+
+> Task :google_sign_in_android:signingReport
+Variant: debugAndroidTest
+Config: debug
+Store: /Users/cnmini/.android/debug.keystore
+Alias: AndroidDebugKey
+MD5: 1E:38:58:93:6F:C4:91:A3:58:F1:93:5A:8F:75:8D:0C
+SHA1: 97:95:0F:76:AC:0D:87:E3:AA:C7:D4:30:F2:D7:C6:E8:A4:E7:A6:9F
+SHA-256: 86:73:A7:16:D4:DD:D2:19:41:DA:DD:01:80:AE:13:4D:4D:34:73:9E:BD:43:CB:B8:F0:07:EA:01:BE:CB:F7:D0
+Valid until: Saturday, 31 August, 2052
+----------

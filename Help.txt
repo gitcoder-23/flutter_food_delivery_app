@@ -1,0 +1,185 @@
+UID:  jwatson7858@gmail.com
+PWD:  Jwatson@007
+
+// JSON To dart
+https://javiercbk.github.io/json_to_dart/
+
+
+// Youtut
+https://youtube.com/playlist?list=PLQrn8asEsczrgB06s8apKMXfKpqWRhF49
+
+Part-39
+
+time: Part-36(Google Map)
+
+time: part-11 (Google Signin Firebase)
+
+// Firebase Connect android
+SHA1 Key-> cd android && ./gradlew signingreport
+
+// Google Signin Firebase
+https://youtu.be/jddB0lVNT_8 (Very Useful IOS & Android)
+https://youtu.be/hgRg9RFvNJQ
+https://youtu.be/1k-gITZA9CI
+
+// AAP
+https://stackoverflow.com/questions/65640066/flutter-building-appbundle-in-release-mode
+
+// APK
+https://stackoverflow.com/questions/49695393/how-to-build-apk-create-old-version-app-in-flutter
+
+
+// Process to deploy stores
+flutter clean
+flutter pub get
+cd ios && pod install && cd ..
+
+// Flutter APK && AAP File Build
+cd android && ./gradlew clean && cd ..
+
+
+// For APK
+cd android
+./gradlew app:assembleRelease
+
+flutter build apk
+
+
+// For AAB
+cd android
+./gradlew bundleRelease
+
+flutter build appbundle
+
+/// Media Query Function
+https://medium.com/tagmalogic/widgets-sizes-relative-to-screen-size-in-flutter-using-mediaquery-3f283afc64d6
+
+// Check platform Platform IOS or Other (For Responsive)
+https://stackoverflow.com/questions/45924474/how-do-you-detect-the-host-platform-from-dart-code
+https://flutterigniter.com/detect-platform-ios-android/
+https://www.flutterbeads.com/how-to-check-platform-in-flutter-the-right-way/
+
+
+
+
+// Flutter Firebase setup
+https://youtu.be/hgRg9RFvNJQ
+
+// To generate SHA-Key for Android firebase
+cd android -> ./gradlew signingreport -> enter
+
+
+// Flutter Bottom Sheet
+https://medium.flutterdevs.com/modal-bottom-sheet-in-flutter-dae05debbed2
+
+
+// Doc
+#  You Tutorial
+https://youtube.com/playlist?list=PL_Wj0DgxTlJeLFYfRBfpFveEd9cQfIpDx
+
+
+# New Flutter Buttons
+https://docs.flutter.dev/release/breaking-changes/buttons
+
+# Flutter Cli
+https://docs.flutter.dev/reference/flutter-cli
+
+# JSON- Type Converter
+https://app.quicktype.io/
+
+https://jsonformatter.org/json-to-typescript
+
+#  API TAKEN FROM 
+https://tq-notes-api-jkrgrdggbq-el.a.run.app/swagger/index.html
+
+# To get mock data from service
+https://pub.dev/packages/get_it
+
+# To get Http Request API
+https://pub.dev/packages/http
+
+# Flutter Dev-Tools Open (ctrl+p)
+https://docs.flutter.dev/development/tools/devtools/vscode
+
+# Validation
+https://blog.logrocket.com/flutter-form-validation-complete-guide/
+
+https://codewithandrea.com/articles/flutter-text-field-form-validation/
+
+https://stackoverflow.com/questions/53424916/textfield-validation-in-flutter
+
+https://codesearchonline.com/flutter-form-textfield-validation/
+
+https://www.topcoder.com/thrive/articles/form-validation-in-flutter
+
+https://www.fluttercampus.com/guide/91/how-to-validate-form-textfield-values-flutter/
+
+
+# Flutter Cleaner
+https://stackoverflow.com/questions/64443888/flutter-cocoapodss-specs-repository-is-too-out-of-date-to-satisfy-dependencies
+
+https://stackoverflow.com/questions/56055142/cocoapods-could-not-find-compatible-versions-for-pod-firebase-coreonly
+
+
+# Infinite loop fetch list
+https://www.kindacode.com/article/flutter-listview-pagination-load-more/
+
+# button 
+https://www.flutterbeads.com/button-with-icon-and-text-flutter/
+https://codewithandrea.com/tips/elevated-button-style-flutter/
+
+
+
+// Bug Fix
+// Flutter Quill
+https://pub.dev/packages/flutter_quill/install
+
+
+// Issue Fixed
+Build fail on latest version of FlutterError: The non-abstract class 'RawEditorState' is missing implementations for these members
+$ flutter pub upgrade --major-versions
+$ dart fix --apply
+
+
+flutter: Error: The non-abstract class 'RenderParagraphX' is missing implementations for these members, caused by sliding_up_panel-1.0.2
+https://stackoverflow.com/questions/63938216/flutter-error-the-non-abstract-class-renderparagraphx-is-missing-implementat
+
+
+I can build again :-D
+
+this is what I have done, in case some else experiences this problem:
+
+flutter channel stable
+flutter upgrade
+flutter clean
+
+
+//  Flutter-Quill editor not working inside a scrollable form
+https://stackoverflow.com/questions/68351418/flutter-quill-editor-not-working-inside-a-scrollable-form
+
+
+
+// Demo app
+https://protocoderspoint.com/flutter-quill-text-editor-text-editing-toolbar/
+
+https://youtu.be/Db09ZScHutQ
+https://youtu.be/e7XF37jVVLw
+
+
+
+// App Icon generator and App Name (Flutter)
+https://appicon.co/
+https://easyappicon.com/(used)
+t.ly/5gSr
+
+// follow --> https://youtu.be/x1fCROXiSks
+
+
+
+
+
+
+
+
+
+

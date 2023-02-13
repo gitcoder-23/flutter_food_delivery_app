@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>149624257206-3tksjhq3mor0k4gbv08sb3qc77r7q20u.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.149624257206-3tksjhq3mor0k4gbv08sb3qc77r7q20u</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>149624257206-f7rqhqev8k62ii0ljv4aam0pj2idfm6o.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCBPPv58dLWy7OVBzWh8lDtLlgLeXdkd7k</string>
+	<key>GCM_SENDER_ID</key>
+	<string>149624257206</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.flutterFoodDeliveryApp</string>
+	<key>PROJECT_ID</key>
+	<string>flutter-food-delivery-ap-410a9</string>
+	<key>STORAGE_BUCKET</key>
+	<string>flutter-food-delivery-ap-410a9.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:149624257206:ios:b307b58111018181b68417</string>
+</dict>
+</plist>

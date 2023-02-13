@@ -1,0 +1,24 @@
+
+time: Part-36(Google Map)
+
+// Using same Gmail where using firebase
+
+// url
+https://console.cloud.google.com/welcome?project=flutter-food-delivery-ap-410a9&pli=1
+
+https://youtu.be/pkrFO5-r9cw
+
+GEO MAap
+Android Api Key---< AIzaSyAwPMi_REmxl3IozDgBssAjfJxaUK-n8Rc
+
+IOS Api Key---< AIzaSyCBPPv58dLWy7OVBzWh8lDtLlgLeXdkd7k
+
+// How to add google map and get current location flutter 
+https://levelup.gitconnected.com/how-to-add-google-maps-in-a-flutter-app-and-get-the-current-location-of-the-user-dynamically-2172f0be53f6
+
+
+/// Help
+
+https://medium.com/@fernnandoptr/how-to-get-users-current-location-address-in-flutter-geolocator-geocoding-be563ad6f66a#:~:text=Get%20user's%20latitude%20and%20longitude,-Now%20it's%20time&text=To%20query%20the%20current%20location,%3BPosition%20position%20%3D%20await%20Geolocator.
+
+https://stackoverflow.com/questions/57657152/how-to-set-initial-camera-position-to-the-current-devices-latitude-and-longitud

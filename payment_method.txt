@@ -1,0 +1,7 @@
+// google pay payment method flutter
+https://pub.dev/packages/pay
+
+https://levelup.gitconnected.com/google-pay-in-flutter-1d9a848cc11a
+
+// Used url
+https://developers.googleblog.com/2021/05/google-pay-introduces-flutter-plugin-for-payments.html
