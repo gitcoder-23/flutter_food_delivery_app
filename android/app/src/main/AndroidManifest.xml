@@ -12,7 +12,7 @@
 
 
    <application
-        android:label="flutter_food_delivery_app"
+        android:label="Vegi Food Delivery"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
 
