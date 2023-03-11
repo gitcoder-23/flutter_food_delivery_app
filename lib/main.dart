@@ -54,7 +54,7 @@ class MyApp extends StatelessWidget {
         home: StreamBuilder(
           stream: FirebaseAuth.instance.authStateChanges(),
           builder: (context, snapShot) {
-            print("snapShot--> ${snapShot.data}");
+            print("snapShot-user-logged--> ${snapShot.data}");
             if (snapShot.hasData) {
               return const HomeScreen();
             } else {
