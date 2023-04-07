@@ -179,7 +179,10 @@ https://firebase.flutter.dev/docs/overview
 
 
 
+// new flutter good package
+https://pub.dev/packages/external_app_launcher
 
+https://pub.dev/packages/velocity_x
 
 
 
