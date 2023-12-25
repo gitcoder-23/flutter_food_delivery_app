@@ -43,8 +43,8 @@ class LandingLoading extends StatelessWidget {
                       ],
                     ),
                   ),
-                  Column(
-                    children: const [
+                  const Column(
+                    children: [
                       Center(
                         child: CircularProgressIndicator(
                             color: Color.fromARGB(255, 14, 196, 54)),
